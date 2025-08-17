@@ -1,0 +1,24 @@
+{
+  "name": "ai-powered-grocery-delivery-service-92773581",
+  "version": "1.0.0",
+  "description": "Smart grocery delivery with AI route optimization and demand prediction\n\n**AI Learning Insights Applied:**\n• Invest in robust AI technology for route optimization and demand prediction\n• Establish strong partnerships with local grocery stores and suppliers\n• Ensure a user-friendly interface for app or website\n\n**Warning Signals to Monitor:**\n⚠️ Decrease in customer retention rates\n⚠️ Increase in delivery times\n⚠️ Increase in customer complaints",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stripe/stripe-js": "^2.0.0",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
